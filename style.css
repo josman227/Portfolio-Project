@@ -178,7 +178,7 @@ body {
 .project-languages li {
   font-size: 12px;
   background-color: #eaebfe;
-  /* padding: 4px 12px; */
+  padding: 4px 12px;
   border-radius: 8px;
   list-style: none;
   color: rgba(96, 112, 255, 1);
