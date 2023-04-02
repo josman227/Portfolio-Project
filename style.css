@@ -12,7 +12,7 @@ body {
 
 section {
   width: 100%;
-  position: sticky;
+  overflow-x: hidden;
 }
 
 .bio-section {
@@ -120,6 +120,7 @@ section {
   margin-bottom: 90px;
   margin-left: 0;
   margin-right: 0;
+  margin-top: 190px;
 }
 
 .project-1 {
@@ -324,4 +325,8 @@ section {
   font-weight: 300;
   margin-right: 45px;
   margin-top: 16px;
+}
+.about-header{
+  font-size: 40px;
+  font-weight: 700;
 }
